@@ -1,5 +1,7 @@
 # 🚀 White Blood Cell Detection & Classification using YOLO
 
+![cytologia](https://github.com/user-attachments/assets/47db3c87-a779-448c-a816-61cc04284b7f)
+
 ## 📌 Advancing AI in Hematology Diagnostics
 
 the **CytologIA Data Challenge**, organized by **Trustii.io** in collaboration with **GFHC** & **Algoscope**, under the **France 2030** plan and **Health Data Hub** initiative.  
@@ -21,4 +23,4 @@ This challenge focused on leveraging **deep learning** for **leukocyte detection
 ## 📊 Model Performance
 
 🏆 Achieved **high precision & recall**, enhancing diagnostic accuracy  
-📊 **Detailed performance metrics available in the repository**  
+📊 **Detailed performance metrics available in the repository**

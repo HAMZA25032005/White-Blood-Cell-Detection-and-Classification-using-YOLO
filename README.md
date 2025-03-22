@@ -2,7 +2,7 @@
 
 ## 📌 Advancing AI in Hematology Diagnostics
 
-Proud to have participated in the **CytologIA Data Challenge**, organized by **Trustii.io** in collaboration with **GFHC** & **Algoscope**, under the **France 2030** plan and **Health Data Hub** initiative.  
+the **CytologIA Data Challenge**, organized by **Trustii.io** in collaboration with **GFHC** & **Algoscope**, under the **France 2030** plan and **Health Data Hub** initiative.  
 This challenge focused on leveraging **deep learning** for **leukocyte detection and classification**, a critical step in automating hematology diagnostics.
 
 ## 🧬 Project Overview
